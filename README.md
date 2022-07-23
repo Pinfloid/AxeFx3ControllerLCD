@@ -1,2 +1,4 @@
 # Axe3ContLCD11.01
-Axe-FX III economic arduin MIDI controller
+Axe-FX III economic arduino MIDI controller
+More details on:
+https://forum.fractalaudio.com/threads/diy-axe-fx-foot-controller-for-50-open-project.119882/
